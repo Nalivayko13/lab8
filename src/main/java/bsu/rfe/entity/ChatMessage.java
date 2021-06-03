@@ -25,10 +25,5 @@ public class ChatMessage {
     public void setAuthor(ChatUser author) {
         this.author = author;
     }
-    public long getTimestamp() {
-        return timestamp;
-    }
-    public void setTimestamp(long timestamp) {
-        this.timestamp = timestamp;
-    }
+  
 }
